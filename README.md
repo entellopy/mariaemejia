@@ -12,6 +12,9 @@ I’m a startup advisor and business strategist exploring how economics and soci
 <br> **Newsletter:** [The Trend Forecast] (https://www.linkedin.com/newsletters/the-trend-forecast-7391511619350052864/)
 <br> **eBooks:** [The Strategic Foundations] (https://lnkd.in/eUjGfcyJ)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/newsletters/the-trend-forecast-7391511619350052864/))
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
+
 
 
 Highlight your new service of giving feedback to startups.
