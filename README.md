@@ -13,8 +13,8 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 - **Newsletter:** Strategic foresight and trend analysis [The Trend Forecast](https://www.linkedin.com/newsletters/the-trend-forecast-7391511619350052864/) <br>
 - **Amazon eBooks:** [The Strategic Foundations](https://lnkd.in/eUjGfcyJ)<br>
 - **Medium:** [My Stories](https://medium.com/@mmejiapascuales)
-- **Featured GitHub Projects:** Applied AI/ML experiments and startup advisory tools  
-- **Talks & Presentations:** Sharing insights on AI, Economics, and Organizational resilience
+- **Featured GitHub Projects:** Applied AI/ML experiments and essential advisory resources for startups.
+- **Insights & Recommendations:** Sharing content and recommendation decks on AI, Economics, and Organizational resilience.
 
 ### Skills & Tools
 - **Data & Analytics:** <br>
