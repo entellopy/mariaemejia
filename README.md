@@ -24,15 +24,15 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-0052CC?style=for-the-badge&logo=looker&logoColor=blue)
+![Looker](https://img.shields.io/badge/Looker-0052CC?style=for-the-badge&logo=looker&logoColor=white)
 
 - **AI/ML:** <br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F37626?style=for-the-badge&logo=colab&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-F37626?style=for-the-badge&logo=vscode&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-4285F4?style=for-the-badge&logo=colab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0052CC?style=for-the-badge&logo=vscode&logoColor=white)
 
 - **Business & Strategy:**<br>
 ![Lean Startup](https://img.shields.io/badge/Lean%20Startup-grey?style=for-the-badge)
