@@ -17,9 +17,9 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 - **Workflow & Productivity:** Notion, Trello, JIRA, GitHub
 
 ### Highlights
-**Newsletter:** [The Trend Forecast](https://www.linkedin.com/newsletters/the-trend-forecast-7391511619350052864/) <br>
-**Amazon eBooks:** [The Strategic Foundations](https://lnkd.in/eUjGfcyJ)<br>
-**Medium:** [My Stories](https://medium.com/@mmejiapascuales)
+- **Newsletter:** [The Trend Forecast](https://www.linkedin.com/newsletters/the-trend-forecast-7391511619350052864/) <br>
+- **Amazon eBooks:** [The Strategic Foundations](https://lnkd.in/eUjGfcyJ)<br>
+- **Medium:** [My Stories](https://medium.com/@mmejiapascuales)
 
 
 I’m looking to collaborate on ...
