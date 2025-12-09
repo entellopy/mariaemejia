@@ -17,7 +17,7 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 - **Talks & Presentations:** Sharing insights on AI, Economics, and Organizational resilience
 
 ### Skills & Tools
-- **Data & Analytics:** Python, R, SQL, Excel, Power BI, Tableau, Looker<br>
+- **Data & Analytics:** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,7 +26,7 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-F2C811?style=for-the-badge&logo=looker&logoColor=blue)
 
-- **AI/ML:** Scikit‑learn, TensorFlow, PyTorch, Jupyter Notebooks, Colab, VSCode<br>
+- **AI/ML:** <br>
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -34,17 +34,17 @@ Economist and Data Strategist with 10+ years in Analytics, now applying that exp
 ![Colab](https://img.shields.io/badge/Colab-F37626?style=for-the-badge&logo=colab&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-F37626?style=for-the-badge&logo=vscode&logoColor=white)
 
-- **Business & Strategy:** Lean Startup, Agile, Design Thinking, Strategic Foresight<br>
+- **Business & Strategy:**<br>
 ![Lean Startup](https://img.shields.io/badge/Lean%20Startup-grey?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
 ![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4088?style=for-the-badge)
 
-- **Marketing & Growth:** Google Analytics, SEO tools, Digital Ads platforms<br>
+- **Marketing & Growth:**<br>
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Digital Ads](https://img.shields.io/badge/Digital%20Ads-FF0000?style=for-the-badge&logo=google-ads&logoColor=white)
 
-- **Workflow & Productivity:** Notion, Trello, JIRA, GitHub<br>
+- **Workflow & Productivity:**<br>
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-273347?style=for-the-badge&logo=jira&logoColor=white)
