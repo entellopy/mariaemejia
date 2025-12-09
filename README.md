@@ -1,4 +1,3 @@
-mariaemejia/README.md
 
 ## Hi there 👋
 Economist and Data Strategist with 10+ years in Analytics, now applying that expertise to organizations by helping them refine processes, validate pre‑launch strategies, and align marketing with data‑driven insights. 
